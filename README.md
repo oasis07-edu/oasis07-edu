@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm a Frontend Developer 👋
 
-<!--
-**oasis07-edu/oasis07-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a React and Frontend Developer focused on building clean, structured, and user-friendly web layouts. I enjoy turning design concepts into fully functional, responsive interfaces.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Libraries & Frameworks:** React, Dynamic Layouts
+- **Tools & Workflow:** Git, GitHub Version Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- **[Landing Page Layout](https://github.com)** - A minimalist landing page template designed for modular design implementation.
+- **[Hostel Web Platforms](https://github.com)** - Front-end structures designed for local hostel and housing services.
+
+### 📬 Let's Connect!
+- 📧 Email: osisdhakal@gmail.com
